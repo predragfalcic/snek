@@ -38,4 +38,4 @@ The project is managed by Maven, so all dependencies should be downloaded by upd
 
 [![docker
 build](https://img.shields.io/docker/cloud/build/falcicp/snek)]((https://cloud.docker.
-com/u/falcicp/repository/docker/falcicp/snek)
+com/repository/docker/falcicp/snek)
