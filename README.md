@@ -33,7 +33,7 @@ Note: The Database works as an in-memory database, so there is no need to run th
 
 The project is managed by Maven, so all dependencies should be downloaded by updating the project via Maven.
 
-[![Build Status](https://travis-ci.com/predragfalcic/snek.svg?branch=master)](https://travis-ci.com/predragfalcic/snek)
+Travis: [![Build Status](https://travis-ci.com/predragfalcic/snek.svg?branch=master)](https://travis-ci.com/predragfalcic/snek)
 
 
-[![dockerbuild](https://travis-ci.com/predragfalcic/snek.svg?branch=master)](https://cloud.docker.com/repository/docker/falcicp/snek)
+Docker Hub: [![dockerbuild](https://travis-ci.com/predragfalcic/snek.svg?branch=master)](https://cloud.docker.com/repository/docker/falcicp/snek)
