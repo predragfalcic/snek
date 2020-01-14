@@ -33,4 +33,4 @@ Note: The Database works as an in-memory database, so there is no need to run th
 
 The project is managed by Maven, so all dependencies should be downloaded by updating the project via Maven.
 
-[![Build Status](https://travisci.com/predragfalcic/snek.svg)](https://travis-ci.com/ predragfalcic/snek)
+[![Build Status](https://travisci.com/predragfalcic/snek.svg)](https://travis-ci.com/predragfalcic/snek)
