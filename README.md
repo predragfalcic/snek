@@ -36,5 +36,4 @@ The project is managed by Maven, so all dependencies should be downloaded by upd
 [![Build Status](https://travisci.com/predragfalcic/snek.svg)](https://travis-ci.com/predragfalcic/snek)
 
 
-[![docker
-build](https://img.shields.io/docker/cloud/build/falcicp/snek)](https://cloud.docker.com/repository/docker/falcicp/snek)
+[![dockerbuild](https://travis-ci.com/predragfalcic/snek.svg?branch=master)](https://cloud.docker.com/repository/docker/falcicp/snek)
