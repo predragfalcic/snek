@@ -25,3 +25,6 @@ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">\n <mirrors>\n <mirror>\n
  - cat $HOME/.m2/settings.xml
  #deploying the app on Docker
  - mvn deploy
+ 
+ after_success:
+ - bash <(curl -s https://codecov.io/bash)
