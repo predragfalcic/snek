@@ -37,3 +37,7 @@ Travis: [![Build Status](https://travis-ci.com/predragfalcic/snek.svg?branch=mas
 
 
 Docker Hub: [![dockerbuild](https://travis-ci.com/predragfalcic/snek.svg?branch=master)](https://cloud.docker.com/repository/docker/falcicp/snek)
+
+<a href="https://codecov.io/gh/predragfalcic/snek">
+  <img src="https://codecov.io/gh/predragfalcic/snek/branch/master/graph/badge.svg" />
+</a>
